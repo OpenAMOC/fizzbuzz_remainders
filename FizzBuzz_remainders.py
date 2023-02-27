@@ -2,7 +2,6 @@
 """
 Created on Fri Oct 14 14:01:44 2022
 
-@author: wallit
 """
 #starts loop for 1 through 100
 for n in range (1,101):
